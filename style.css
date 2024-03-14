@@ -1,0 +1,49 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  background-color:rgb(249, 236, 219);
+}
+
+header {
+  background-color: red;
+  color:white;
+  text-align: center;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
+  margin-left: 20px;
+}
+
+.welcome {
+  text-align: center;
+  padding: 50px;
+}
+
+footer {
+  background-color: red;
+  padding: 10px ;
+  margin-top: 200px;
+}
+
+.profile pic{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.btn{
+  border: solid;
+  size: 10px;
+  color: rgb(171, 2, 2);
+  background-color: white;
+  
+}
+
+
+
